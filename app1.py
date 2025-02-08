@@ -18,6 +18,9 @@ section.stMain{
     color:orange;
     text-shadow:2px 2px 2px black;
 }
+div[data-testid="stMarkdownContainer"]{
+    color:white;
+}
 </style>
 """,unsafe_allow_html=True)
 st.title("Kalkulator Fungsi Turunan dan Integral")
