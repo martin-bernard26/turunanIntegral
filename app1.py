@@ -9,7 +9,7 @@ st.markdown("""
     text-shadow:2px 2px 2px red;
 }
 ._iframe_nim44_26{
-    background-image:url("https://img1.picmix.com/output/stamp/normal/6/4/7/2/1652746_f4f68.gif");
+    background-image:url(https://img1.picmix.com/output/stamp/normal/6/4/7/2/1652746_f4f68.gif);
     background-repeat: no-repeat;
     background-size: cover;
 }
