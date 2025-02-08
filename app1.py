@@ -23,6 +23,9 @@ div.st-key-masukan1 p, div.st-key-masukan2 p{
     font-family:"comic sans ms";
     font-size:16px;
 }
+div.st-key-masukan1 div.st-ae{
+    box-shadow: 5px 5px 5px 5px yellow;
+}
 </style>
 """,unsafe_allow_html=True)
 st.title("Kalkulator Fungsi Turunan dan Integral")
