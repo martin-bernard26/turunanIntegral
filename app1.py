@@ -18,8 +18,10 @@ section.stMain{
     color:orange;
     text-shadow:2px 2px 2px black;
 }
-div[data-testid="stMarkdownContainer"]{
-    color:white;
+div.st-key-masukan1{
+    color:yellow;
+    font-family:"comic sans ms";
+    font-size:16px;
 }
 </style>
 """,unsafe_allow_html=True)
