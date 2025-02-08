@@ -25,7 +25,7 @@ div[data-testid="stMarkdownContainer"]{
 """,unsafe_allow_html=True)
 st.title("Kalkulator Fungsi Turunan dan Integral")
 st.header("Turunan")
-masukan = st.text_input("Masukan persamaan")
+masukan = st.text_input("Masukan persamaan",key="masukan1")
 x, y = symbols(r'x y')
 if masukan!="":
     masukan=sympify(masukan)
@@ -38,7 +38,7 @@ if masukan!="":
     st.latex(latex(pers2))
 
 st.header("Integral")
-masukan1 = st.text_input("Masukan Fungsi")
+masukan1 = st.text_input("Masukan Fungsi",key="masukan2")
 if masukan1!="":
     masukan1=sympify(masukan1)
     integral=Integral(masukan1,x)
