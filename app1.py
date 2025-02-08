@@ -13,6 +13,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#turunan{
+    font-family:"commic sans ms";
+    color:orange;
+}
 </style>
 """,unsafe_allow_html=True)
 st.title("Kalkulator Fungsi Turunan dan Integral")
