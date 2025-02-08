@@ -8,7 +8,7 @@ st.markdown("""
     color:green;
     text-shadow:2px 2px 2px red;
 }
-body{
+div.stVerticalBlock{
     background-image:url("https://img1.picmix.com/output/stamp/normal/6/4/7/2/1652746_f4f68.gif");
     background-repeat: no-repeat;
     background-size: cover;
