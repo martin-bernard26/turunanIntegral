@@ -1,6 +1,14 @@
 import streamlit as st
 from sympy import *
 
+st.markdown("""
+#kalkulator-fungsi-turunan-dan-integral{
+    font-family:"bauhaus 93";
+    color:green;
+    text-shadow:2px 2px 2px red;
+    
+}
+""")
 st.title("Kalkulator Fungsi Turunan dan Integral")
 st.header("Turunan")
 masukan = st.text_input("Masukan persamaan")
