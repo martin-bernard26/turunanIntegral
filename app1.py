@@ -14,8 +14,9 @@ body{
     background-size: cover;
 }
 #turunan{
-    font-family:"commic sans ms";
+    font-family:broadway;
     color:orange;
+    text-shadow:2px 2px 2px 2px black;
 }
 </style>
 """,unsafe_allow_html=True)
