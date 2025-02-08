@@ -6,9 +6,8 @@ st.markdown("""
     font-family:"bauhaus 93";
     color:green;
     text-shadow:2px 2px 2px red;
-    
 }
-""")
+""",unsafe_allow_html=True)
 st.title("Kalkulator Fungsi Turunan dan Integral")
 st.header("Turunan")
 masukan = st.text_input("Masukan persamaan")
