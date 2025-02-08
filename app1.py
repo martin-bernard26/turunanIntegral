@@ -24,7 +24,7 @@ div.st-key-masukan1 p, div.st-key-masukan2 p{
     font-size:16px;
 }
 div.st-key-masukan1 div.st-ae{
-    box-shadow: 5px 5px 5px 5px yellow;
+    box-shadow: 0px 0px 0px 5px cyan;
 }
 </style>
 """,unsafe_allow_html=True)
