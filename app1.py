@@ -18,7 +18,7 @@ section.stMain{
     color:orange;
     text-shadow:2px 2px 2px black;
 }
-div.st-key-masukan1 p{
+div.st-key-masukan1 p, div.st-key-masukan2 p{
     color:yellow;
     font-family:"comic sans ms";
     font-size:16px;
