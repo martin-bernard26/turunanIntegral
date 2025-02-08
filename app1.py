@@ -8,6 +8,11 @@ st.markdown("""
     color:green;
     text-shadow:2px 2px 2px red;
 }
+section[data-testid="stMain"]{
+    background-image:url("https://img1.picmix.com/output/stamp/normal/6/4/7/2/1652746_f4f68.gif")
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 </style>
 """,unsafe_allow_html=True)
 st.title("Kalkulator Fungsi Turunan dan Integral")
