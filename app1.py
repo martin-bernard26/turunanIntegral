@@ -40,7 +40,6 @@ div[data-testid="stSidebarContent"]{
     background-image:url("https://i.pinimg.com/originals/27/3f/7f/273f7f9663477fd4bb8420ef95c903d5.gif");
     background-repeat: no-repeat;
     background-size: cover;
-    z-index:1;
 }
 div.etvjjhi0{
     color:white;
@@ -49,11 +48,10 @@ div.etvjjhi0{
 }
 div[data-testid="st.SidebarHeader"] button{
     background-color:orange;
-    z-index:2;
 }
 </style>
 """,unsafe_allow_html=True)
-st.sidebar.image("https://res.cloudinary.com/ikip-siliwangi/image/upload/v1644123010/bernard.jpg",width=100, use_column_width=True)
+st.sidebar.image("https://res.cloudinary.com/ikip-siliwangi/image/upload/v1644123010/bernard.jpg",width=100)
 st.sidebar.text("Martin Bernard")
 st.title("Kalkulator Fungsi Turunan dan Integral")
 st.header("Turunan")
