@@ -26,6 +26,9 @@ div.st-key-masukan1 p, div.st-key-masukan2 p{
 div.st-key-masukan1 div.st-ae{
     box-shadow: 0px 0px 0px 5px cyan;
 }
+#integral{
+    color:white
+}
 </style>
 """,unsafe_allow_html=True)
 st.title("Kalkulator Fungsi Turunan dan Integral")
