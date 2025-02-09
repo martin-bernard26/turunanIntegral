@@ -72,6 +72,10 @@ header.stAppHeader{
     animation-iteration-count: infinite;
     animation-direction: alternate; 
 }
+@keyframes animasi1{
+    0%{color:green}
+    100%{color:gray}
+}
 </style>
 """,unsafe_allow_html=True)
 st.sidebar.image("https://res.cloudinary.com/ikip-siliwangi/image/upload/v1644123010/bernard.jpg",width=100)
