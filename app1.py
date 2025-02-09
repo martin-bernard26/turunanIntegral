@@ -9,7 +9,7 @@ st.markdown("""
     text-shadow:2px 2px 2px red;
 }
 section.stMain{
-    background-image:url("https://img1.picmix.com/output/stamp/normal/6/4/7/2/1652746_f4f68.gif");
+    background-image:url("https://i.pinimg.com/originals/f7/d0/02/f7d0021c7065e21a5f437f86686a6241.gif");
     background-repeat: no-repeat;
     background-size: cover;
 }
