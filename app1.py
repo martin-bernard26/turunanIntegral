@@ -30,6 +30,9 @@ div.st-key-masukan1 div.st-ae{
     color:white;
     font-family:broadway;
 }
+span.katex mrow{
+    color:white;
+}
 </style>
 """,unsafe_allow_html=True)
 st.title("Kalkulator Fungsi Turunan dan Integral")
