@@ -41,6 +41,11 @@ div[data-testid="stSidebarContent"]{
     background-repeat: no-repeat;
     background-size: cover;
 }
+div.etvjjhi0{
+    color:white;
+    font-family:"comic sans ms";
+    font-size:20px;
+}
 </style>
 """,unsafe_allow_html=True)
 st.sidebar.text("Martin Bernard")
