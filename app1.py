@@ -38,6 +38,7 @@ span.katex{
 }
 </style>
 """,unsafe_allow_html=True)
+st.sidebar.text("Martin Bernard")
 st.title("Kalkulator Fungsi Turunan dan Integral")
 st.header("Turunan")
 masukan = st.text_input("Masukan persamaan",key="masukan1")
