@@ -50,7 +50,8 @@ div[data-testid="stSidebarHeader"] button{
     background-color:orange;
 }
 div[data-testid="stFullScreenFrame"]{
-    text-align:center;
+    display:flex;
+    hustify-content:center;
 }
 </style>
 """,unsafe_allow_html=True)
