@@ -52,6 +52,9 @@ div.etvjjhi0{
 div[data-testid="stSidebarHeader"] button{
     background-color:orange;
 }
+div[data-testid="stSidebarHeader"] button:hover{
+    background-color:cyan;
+}
 div[data-testid="stFullScreenFrame"]{
     position:relative;
 }
