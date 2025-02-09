@@ -37,7 +37,7 @@ span.katex{
     border:2px solid blue;
 }
 div[data-testid="stSidebarContent"]{
-    background-image:url("https://i.pinimg.com/originals/27/3f/7f/273f7f9663477fd4bb8420ef95c903d5.gif")
+    background-image:url("https://i.pinimg.com/originals/27/3f/7f/273f7f9663477fd4bb8420ef95c903d5.gif");
     background-repeat: no-repeat;
     background-size: cover;
 }
