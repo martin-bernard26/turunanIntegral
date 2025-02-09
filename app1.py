@@ -49,8 +49,8 @@ div.etvjjhi0{
 div[data-testid="stSidebarHeader"] button{
     background-color:orange;
 }
-div[data-testid="stFullScreenFrame"]>div{
-    text-align:center;
+div[data-testid="stFullScreenFrame"]{
+    background-color:orange;
 }
 </style>
 """,unsafe_allow_html=True)
