@@ -64,11 +64,10 @@ header.stAppHeader{
     background-repeat: no-repeat;
     background-size: cover;
 }
-#fungsi-turunan{
+#hasil-turunan{
     font-family:broadway;
     color:green;
 }
-
 </style>
 """,unsafe_allow_html=True)
 st.sidebar.image("https://res.cloudinary.com/ikip-siliwangi/image/upload/v1644123010/bernard.jpg",width=100)
