@@ -40,6 +40,7 @@ div[data-testid="stSidebarContent"]{
     background-image:url("https://i.pinimg.com/originals/27/3f/7f/273f7f9663477fd4bb8420ef95c903d5.gif");
     background-repeat: no-repeat;
     background-size: cover;
+    z-index:1;
 }
 div.etvjjhi0{
     color:white;
@@ -48,6 +49,7 @@ div.etvjjhi0{
 }
 div[data-testid="st.SidebarHeader"]{
     background-color:orange;
+    z-index:2;
 }
 </style>
 """,unsafe_allow_html=True)
