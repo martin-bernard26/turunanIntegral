@@ -33,6 +33,8 @@ div.st-key-masukan1 div.st-ae{
 span.katex{
     background-color:yellow;
     padding:5px;
+    border-radius:10px;
+    border:2px solid blue;
 }
 </style>
 """,unsafe_allow_html=True)
