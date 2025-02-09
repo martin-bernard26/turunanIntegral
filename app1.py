@@ -46,7 +46,7 @@ div.etvjjhi0{
     font-family:"comic sans ms";
     font-size:20px;
 }
-div[data-testid="st.SidebarCollapseButton"] button{
+div[data-testid="st.SidebarCollapseButton"]{
     background-color:orange;
 }
 </style>
