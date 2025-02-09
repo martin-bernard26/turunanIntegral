@@ -53,8 +53,8 @@ div[data-testid="st.SidebarHeader"] button{
 }
 </style>
 """,unsafe_allow_html=True)
+st.sidebar.image("https://res.cloudinary.com/ikip-siliwangi/image/upload/v1644123010/bernard.jpg",width=100, use_column_width=True)
 st.sidebar.text("Martin Bernard")
-st.sidebar.image("https://res.cloudinary.com/ikip-siliwangi/image/upload/v1644123010/bernard.jpg",width=100)
 st.title("Kalkulator Fungsi Turunan dan Integral")
 st.header("Turunan")
 masukan = st.text_input("Masukan persamaan",key="masukan1")
