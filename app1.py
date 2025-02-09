@@ -27,7 +27,8 @@ div.st-key-masukan1 div.st-ae{
     box-shadow: 0px 0px 0px 5px cyan;
 }
 #integral{
-    color:white
+    color:white;
+    font-family:broadway;
 }
 </style>
 """,unsafe_allow_html=True)
