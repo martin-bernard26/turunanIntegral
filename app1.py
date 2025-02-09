@@ -50,8 +50,9 @@ div[data-testid="stSidebarHeader"] button{
     background-color:orange;
 }
 div[data-testid="stFullScreenFrame"]{
+    background-color:green;
     display:flex;
-    hustify-content:center;
+    justify-content:center;
 }
 </style>
 """,unsafe_allow_html=True)
