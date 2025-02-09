@@ -49,6 +49,9 @@ div.etvjjhi0{
 div[data-testid="stSidebarHeader"] button{
     background-color:orange;
 }
+div[data-testid="stFullScreenFrame"] button{
+    text-align:center;
+}
 </style>
 """,unsafe_allow_html=True)
 st.sidebar.image("https://res.cloudinary.com/ikip-siliwangi/image/upload/v1644123010/bernard.jpg",width=100)
