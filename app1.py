@@ -30,8 +30,8 @@ div.st-key-masukan1 div.st-ae{
     color:white;
     font-family:broadway;
 }
-span.katex mrow{
-    color:white;
+span.katex{
+    background-color:yellow;
 }
 </style>
 """,unsafe_allow_html=True)
