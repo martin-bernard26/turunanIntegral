@@ -51,6 +51,11 @@ div[data-testid="stSidebarHeader"] button{
 }
 div[data-testid="stFullScreenFrame"]{
     background-color:orange;
+    position:relative;
+}
+div[data-testid="stFullScreenFrame"]{
+    position:absolute;
+    left:100px;
 }
 </style>
 """,unsafe_allow_html=True)
