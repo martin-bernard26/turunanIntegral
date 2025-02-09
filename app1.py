@@ -64,6 +64,14 @@ header.stAppHeader{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#fungsi-turunan{
+    font-family:broadway;
+    color:green;
+    animation-name:animasi1;
+    animation-duration:2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate; 
+}
 </style>
 """,unsafe_allow_html=True)
 st.sidebar.image("https://res.cloudinary.com/ikip-siliwangi/image/upload/v1644123010/bernard.jpg",width=100)
