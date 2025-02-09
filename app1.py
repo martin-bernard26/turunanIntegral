@@ -49,10 +49,8 @@ div.etvjjhi0{
 div[data-testid="stSidebarHeader"] button{
     background-color:orange;
 }
-div[data-testid="stFullScreenFrame"]{
-    background-color:green;
-    display:flex;
-    justify-content:center;
+div[data-testid="stFullScreenFrame"]>div{
+    left:100px;
 }
 </style>
 """,unsafe_allow_html=True)
