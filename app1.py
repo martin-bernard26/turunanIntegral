@@ -46,6 +46,9 @@ div.etvjjhi0{
     font-family:"comic sans ms";
     font-size:20px;
 }
+div[data-testid="st.SidebarCollapseButton"] button{
+    background-color:orange;
+}
 </style>
 """,unsafe_allow_html=True)
 st.sidebar.text("Martin Bernard")
