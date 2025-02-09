@@ -46,8 +46,8 @@ div.etvjjhi0{
     color:white;
     font-family:"comic sans ms";
     font-size:20px;
-    top:120px;
-    left:100px;
+    top:130px;
+    left:70px;
 }
 div[data-testid="stSidebarHeader"] button{
     background-color:orange;
