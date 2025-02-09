@@ -46,7 +46,7 @@ div.etvjjhi0{
     font-family:"comic sans ms";
     font-size:20px;
 }
-div[data-testid="st.SidebarHeader"] button{
+div[data-testid="stSidebarHeader"] button{
     background-color:orange;
 }
 </style>
