@@ -50,7 +50,6 @@ div[data-testid="stSidebarHeader"] button{
     background-color:orange;
 }
 div[data-testid="stFullScreenFrame"]{
-    background-color:orange;
     position:relative;
 }
 div[data-testid="stFullScreenFrame"]{
