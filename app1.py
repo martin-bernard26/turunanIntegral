@@ -59,6 +59,11 @@ div[data-testid="stFullScreenFrame"]{
     position:absolute;
     left:100px;
 }
+header.stAppHeader{
+    background-image:url("https://i.makeagif.com/media/5-13-2017/eh2i8u.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 </style>
 """,unsafe_allow_html=True)
 st.sidebar.image("https://res.cloudinary.com/ikip-siliwangi/image/upload/v1644123010/bernard.jpg",width=100)
